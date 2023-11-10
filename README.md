@@ -37,6 +37,18 @@ route pages
 3.(/user) = user crud
 4.(/user/{id)= detail user id ketika id diklik
 
+Task yang sudah dikerjakan
+Blog post list = dihalaman index beserta pagination
+Blog post detail with comment and user = halaman index button read more
+Users page with Create, Read, Update, Delete and Search users = halaman users di navbar
+
+Assessment Criteria : 
+The page not refresh when CRUD actions = done. 
+Using pagination to show data = done . 
+Good user interface= done 
+Responsive = done 
+Optimized app (eg. server side rendering, state management, no errors & warnings). 
+
 
 
 
