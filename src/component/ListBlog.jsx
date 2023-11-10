@@ -36,7 +36,7 @@ const ListBlog = () => {
     });
   }, []);
 
-  console.log("INI TODO", todos);
+  // console.log("INI TODO", todos);
 
   const handlePageChange = ({ selected }) => {
     setPageNumber(selected);

@@ -85,7 +85,7 @@ export default function Page({ postId }) {
 
   // console.log("todo", todo);
   // console.log("comments", comments);
-  console.log("category", category);
+  // console.log("category", category);
 
   // const flattenedData = comments.flatMap((item) => item.data);
   // console.log("flattnedData", flattenedData);

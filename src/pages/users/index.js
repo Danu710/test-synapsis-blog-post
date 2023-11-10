@@ -91,7 +91,7 @@ const index = () => {
     setFilteredUsers(filtered);
   };
 
-  console.log("filteredUsers", filteredUsers);
+  // console.log("filteredUsers", filteredUsers);
 
   const handleEdit = async (id) => {
     const foundProduct = await getUserById(id);
